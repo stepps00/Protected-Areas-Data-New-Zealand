@@ -1,0 +1,19 @@
+{
+    "source_name":"Toitū Te Whenua Land Information New Zealand",
+    "source_dataset":"National Property and Land Information System (NaPALIS) - Protected Area Layer",
+    "source_name_prefix":"napalis",
+    "license_type":"Creative Commons Attribution 4.0 International",
+    "license_text":"You may use this work for commercial purposes. You must attribute the creator in your own works.",
+    "countries":"New Zealand",
+    "url_license":"https://data.linz.govt.nz/layer/53564-protected-areas/download/",
+    "url_license_archived":"https://web.archive.org/web/20220903174953/https://data.linz.govt.nz/layer/53564-protected-areas/download/",
+    "url_home":"https://data.linz.govt.nz/",
+    "url_home_archived":"https://web.archive.org/web/20220602003747/https://data.linz.govt.nz/",
+    "url_download_page":"https://data.linz.govt.nz/layer/53564-protected-areas/download/",
+    "url_download_page_archived":"https://web.archive.org/web/20220903174953/https://data.linz.govt.nz/layer/53564-protected-areas/download/",
+    "url_download":"",
+    "url_download_archived":"",
+    "date_accessed":"2022-06-02",
+    "note":"Login required to download dataset. Direct import of source data, slight modifications to attributes. Geometries were simplified by 70% to accommodate GitHub requirements.",
+    "description":"This Protected Area Layer contains land and marine areas, most of which are administered by the Department of Conservation Te Papa Atawhai (DOC) and are protected by the Conservation, Reserves, National Parks, Marine Mammal and Marine Reserves Acts."
+}
